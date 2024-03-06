@@ -16,6 +16,9 @@ I'm Mayur, a Data Analyst, Data Engnieer and SQL enthusiast from United Kingdom.
 -  Databases: MySQL, PostgresSQL
 -  Cloud Platforms: AWS, GCP.
 
+## Projects
+1. [Data Analysis on Energy Demand Dataset](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand)
+
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mayur-tikar/)
 <!--
