@@ -22,6 +22,8 @@ I'm Mayur, a Data Analyst, Data Engnieer and SQL enthusiast from United Kingdom.
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mayur-tikar/)
+- Email: mayurtikar2000@gmail.com
+- Mobile: +44 7544942958
 <!--
 **mayur-tikar/mayur-tikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
