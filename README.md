@@ -20,6 +20,7 @@ I'm Mayur, a Data Analyst, Data Engnieer and SQL enthusiast from United Kingdom.
 1. [Data Analysis on Energy Demand Dataset](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand)
 2. [Dental Pharma Visual Analysis](https://github.com/mayur-tikar/Dental-Pharma-Analysis)
 3. [ETL Mini Project](https://github.com/mayur-tikar/ETL-Mini-Project/tree/main)
+4. [PostgreSQL and Pandas Integration](https://github.com/mayur-tikar/PostgreSQL---Pandas)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mayur-tikar/)
