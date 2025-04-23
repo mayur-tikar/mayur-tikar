@@ -17,9 +17,9 @@ I'm Mayur, a Data Analyst, Data Engnieer and SQL enthusiast from United Kingdom.
 -  Cloud Platforms: AWS, GCP.
 
 ## Projects
-1. [Data Analysis on Energy Demand Dataset](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand)
-2. [Dental Pharma Visual Analysis](https://github.com/mayur-tikar/Dental-Pharma-Analysis)
-3. [NHS Emergency Readmissions Analysis](https://github.com/mayur-tikar/NHS-Readmissions-Analysis)
+1. [NHS Emergency Readmissions Analysis](https://github.com/mayur-tikar/NHS-Readmissions-Analysis)
+2. [Data Analysis on Energy Demand Dataset](https://github.com/mayur-tikar/Data-Analysis-on-Energy-Demand)
+3. [Dental Pharma Visual Analysis](https://github.com/mayur-tikar/Dental-Pharma-Analysis)
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/mayur-tikar/)
